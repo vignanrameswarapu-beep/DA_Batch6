@@ -1,0 +1,77 @@
+'''
+what is a program ?
+A program is a set of istructions given by a user or a set of lines by a programmer 
+user_en=2000
+bal_=10000
+result=bal_-user_en
+print(result) 
+ procedural language 
+-------------------------------------------------------------------------------------------------------------------------
+----> An procedural language is organized mainly on funtions 
+
+eg-->c
+--
+def cal_add(a,b):
+   return a+b
+a=7
+b=9
+any_=cal_add(a,b)
+print(any_)
+
+Object-oriented programming
+----------------------------
+----> Object oriented programming is organized mainly on classes and object 
+eg----> Python
+---
+num=7
+print(type(num))
+
+what is python?
+----------------
+------> High-level language
+---------------------------
+------> Interperter language
+---------------------------
+----> Line by line execution is by python that is why we call python as interpreter language
+eg
+--
+num=9
+num_2=90
+print(num)
+print(type(num))
+------> Dynamically typed language
+---------------------------
+---> No need to mention what type of data passing to the variable
+eg
+
+--
+num=78
+any_=['python']
+all_=(1,2)
+print(type(num))
+print(type(any_))
+print(type(nums))
+print(type(all_))
+
+why python?
+
+__________________ 
+
+1 More libraries
+2 cross platform
+3 Open-Source
+4 Simple Syntax
+
+application
+--------
+---> use in Data Science 
+---> AI
+---> ML
+---> DL
+
+It was started in late 1980s, and released in the years 1991 by Guido Van Rossum 
+And the Picked the form the most loved series called monty python 
+The first version was released in the year 1991 which is python 0.9.0 we are using 3.13
+
+
+'''
